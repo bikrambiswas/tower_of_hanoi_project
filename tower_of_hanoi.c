@@ -491,7 +491,7 @@ void first()
 	glColor3f(0,1,0);
 	strokeString(650,160,0.18,0.18,"Bikram Biswas",2);
 	glColor3f(0,0,0);
-	strokeString(650,120,0.18,0.18,"1AY18CS001",2);
+	strokeString(650,120,0.18,0.18,"1AY18CS028",2);
 	glutSwapBuffers();
 }
 
